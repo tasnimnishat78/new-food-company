@@ -1,0 +1,53 @@
+.single-product{
+    background-color: #fdfdfd;
+    width: 300px;
+    height: 600px;
+    padding-top: 7px;
+    border-radius: 8px;
+    border: 1px solid #e2e2e2;
+    position: relative;
+    
+
+}
+.single-product img{
+    width: 286px;
+    padding-left: 7px;
+
+}
+
+.btn{
+    width: 100%;
+    background-color: #ffd9a0;
+    border: none;
+    border-radius: 0 0 5px 5px;
+    padding: 15px 15px;
+    color: #000000;
+    font-size: 17px;
+    position: absolute;
+    bottom: 0;
+    
+}
+.btn:hover{
+    background-color: #ffae00;
+    transition: 0.3s ease-in-out;
+}
+.lower-part{
+    margin-top: 30px;
+}
+.description{
+    padding: 10px 15px;
+    padding-bottom: 20px;
+
+}
+.description h5{
+    color: #030303!important;
+    font-family: Lato;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.032px;
+    margin: 0;
+}
+
+

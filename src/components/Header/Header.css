@@ -1,0 +1,27 @@
+.header{
+    height: 80px;
+    background-color: #e9f6ff;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+    place-items: center;
+}
+
+.header a{
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(37, 37, 37);
+    padding-left: 30px;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.085px;
+}
+.header a:hover{
+    color: orange;
+    transition: 0.3s ease-in-out;
+}
+
+.header img{
+    width: 140px;
+    height: 42.465px;
+}
